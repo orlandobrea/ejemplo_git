@@ -1,5 +1,6 @@
 // funcion para sumar
 function sumar(a,b) {
+    // Esto retorna algo
     return a+b;
 }
 
